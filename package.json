@@ -1,14 +1,28 @@
 {
-  "name": "maps",
+  "name": "google_maps",
   "version": "1.0.0",
-  "description": "",
+  "description": "install faker ```sh npm i faker ``` Faker package helps to generate a bunch of different types of information. install parcel  ```sh npm install -g parcel-bundler ``` Parcel is a package that helps to run typescript in the browser",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MennyMo/google_maps.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MennyMo/google_maps/issues"
+  },
+  "homepage": "https://github.com/MennyMo/google_maps#readme",
+  "dependencies": {
+    "@types/faker": "^5.5.9",
+    "@types/google.maps": "^3.49.2",
+    "@types/googlemaps": "^3.43.3",
+    "faker": "^5.5.3"
+  },
   "devDependencies": {
     "typescript": "^4.7.4"
   }
