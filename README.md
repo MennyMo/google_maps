@@ -30,4 +30,3 @@ to do that I had to install a type definition file(to help TS understand how a 3
 ```sh
 npm install @types/google.maps
 ```
-add google map support
