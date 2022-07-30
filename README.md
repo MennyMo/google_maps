@@ -33,4 +33,4 @@ npm install @types/google.maps
 ```
 
 
-create customMap
+bad code to add markers
